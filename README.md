@@ -5,22 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on building more projects with C++
+- 🌱 I’m currently learning data structures & SQL
+- 🤔 I’m looking to share my projects with others!
 -->
 
 ## 🚀 About Me
 
 - I am Christiana Hellenbrand, a Computer Science major studying at the University of South Florida! 
-- I am currently a classroom teaching assistant for GirlsWhoCode! 
+- I am currently a classroom teaching assistant for Code/Art! 
 
-📚 Outside the tech world, I enjoy ...
+📚 Outside the tech world, I enjoy kayaking, reading, hiking, and painting!
 
 ## 🛠️ Skills
 
@@ -35,15 +30,14 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📝 Networking
-- I am currently looking for a (insert job type)!
-- I am also looking to collaborate on (insert project type)!
+- I am currently looking for a software engineer internship!
+<!-- I am also looking to collaborate on (insert project type)!-->
 - Connect with me down below!
 
 ## 📈 Stats
 [![Christiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianaMH)](https://github.com/ChristianaMH/github-readme-stats)
 
 ## 🔗Connect with me!
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]<!---((https://github.com/GITHUB USERNAME)-->
-[![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)]<!---((https://www.instagram.com/INSTAGRAM USERNAME)-->
-[![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)]<!---((https://www.linkedin.com/in/LINKEDIN USERNAME)-->
-[![twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=blue)]<!---((https://twitter.com/TWITTER USERNAME)-->
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]<!---((https://github.com/GITHUB ChristianaMH)-->
+[![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)]<!---((www.linkedin.com/in/christiana-hellenbrand)-->
+
