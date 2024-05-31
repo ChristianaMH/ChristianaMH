@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 
 - I am Christiana Hellenbrand, a Computer Science major studying at the University of South Florida! 
-- I am currently a classroom teaching assistant for Code/Art! 
+- I am currently working as a Full-Stack Web Developer for the Judy Genshaft Honors College!
+- I also am starting my own reserach working with autonomous robots 🤖⚙!
 
 📚 Outside the tech world, I enjoy kayaking, reading, hiking, and painting!
 
